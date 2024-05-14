@@ -3,61 +3,61 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
                 nombre: 'FUNDA PROTECTORA ANUEL',
-                precio: 300,
+                precio: 5990,
                 imagen: 'subli/BRR2.PNG'
             },
             {
                 id: 2,
                 nombre: 'FUNDA PROTECTORA LAS LEYENDAS NUNCA MUEREN',
-                precio: 200,
+                precio: 4990,
                 imagen: 'subli/BRR3.PNG'
             },
             {
                 id: 3,
                 nombre: 'FUNDA PROTECTORA SIEMPRE LEAL',
-                precio: 500,
+                precio: 5990,
                 imagen: 'subli/BRR4.PNG'
             },
             {
                 id: 4,
                 nombre: 'FUNDA PROTECTORA LLNM2',
-                precio: 600,
+                precio: 6990,
                 imagen: 'subli/BRR5.PNG'
             },
             {
                 id: 5,
                 nombre: 'FUNDA PROTECTORA REAL HASTA LA MUERTE',
-                precio: 300,
+                precio: 5990,
                 imagen: 'subli/BRR6.PNG'
             },
             {
                 id: 6,
                 nombre: 'FUNDA PROTECTORA COLO-COLO ESCUDO',
-                precio: 200,
+                precio: 5990,
                 imagen: 'subli/COLOCOLO1.PNG'
             },
             {
                 id: 7,
                 nombre: 'FUNDA PROTECTORA COLO-COLO NEGRA',
-                precio: 500,
+                precio: 5990,
                 imagen: 'subli/COLOCOLO2.PNG'
             },
             {
                 id: 8,
                 nombre: 'FUNDA PROTECTORA COLO-COLO BLANCA',
-                precio: 600,
+                precio: 6990,
                 imagen: 'subli/COLOCOLO3.PNG'
             },
             {
                 id: 9,
                 nombre: 'FUNDA PROTECTORA COLO-COLO SANGRE ARAUCANA',
-                precio: 300,
+                precio: 5990,
                 imagen: 'subli/COLOCOLO4.PNG'
             },
             {
                 id: 10,
                 nombre: 'FUNDA PROTECTORA COLO-COLO ETERNO CAMPEON',
-                precio: 200,
+                precio: 5990,
                 imagen: 'subli/COLOCOLO5.PNG'
             }
         ];
