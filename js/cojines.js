@@ -3,31 +3,31 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
                 nombre: 'COJIN LAS LEYENDAS NUNCA MUEREN',
-                precio: 22000,
+                precio: 9990,
                 imagen: 'subli/LLNM1.PNG'
             },
             {
                 id: 2,
                 nombre: 'COJIN DRIPPIN',
-                precio: 20000,
+                precio: 9990,
                 imagen: 'subli/LLNM2.PNG'
             },
             {
                 id: 3,
                 nombre: 'COJIN NUNCA SAPO',
-                precio: 20000,
+                precio: 9990,
                 imagen: 'subli/LLNM3.PNG'
             },
             {
                 id: 4,
                 nombre: 'COJIN REAL HASTA LA MUERTET',
-                precio: 20000,
+                precio: 10990,
                 imagen: 'subli/LLNM4.PNG'
             },
             {
                 id: 5,
                 nombre: 'COJIN KEI',
-                precio: 22000,
+                precio: 9990,
                 imagen: 'subli/LLNM5.PNG'
             }
         ];
