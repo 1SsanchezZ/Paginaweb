@@ -1,13 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('registroForm');
-
-    // Definir las regiones de Chile
-    const regionesChile = [
-        { nombre: 'Región Metropolitana', comunas: ['Santiago', 'Providencia', 'Maipú', 'La Florida', '...'] },
-        { nombre: 'Valparaíso', comunas: ['Valparaíso', 'Viña del Mar', 'Quilpué', 'Villa Alemana', '...'] },
-        // Agregar más regiones y comunas según sea necesario
-    ];
-
     // Función para cargar las regiones en el select de regiones
     function cargarRegiones() {
         const selectRegion = form.region;
