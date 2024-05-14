@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const divisa = '$'; // Definir la variable divisa
-    let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
+    let carrito = JSON.parse(localStorage.getItem('carrito')) || []; //La API que se utiliza en este código es la API de Local Storage.
 
     const listaCarrito = document.getElementById('lista-carrito');
     const contadorCarrito = document.getElementById('contador-carrito');
