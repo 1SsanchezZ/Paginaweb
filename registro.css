@@ -1,0 +1,62 @@
+    /* Estilos generales */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        padding-top: 0px; /* Espacio superior para el header fijo */
+    }
+
+    .main-container {
+        max-width: 960px;
+        margin: 50px auto; /* Centra el contenedor y agrega espacio superior e inferior */
+        padding: 0 15px; /* Añade relleno a los lados para separar del borde del navegador */
+    }
+
+    .container {
+        max-width: 960px;
+        margin: auto;
+    }
+
+    /* Estilos para los formularios */
+    form {
+        margin-top: 20px;
+    }
+
+    form label {
+        font-weight: bold;
+    }
+
+    form input[type="email"],
+    form input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+
+    form input[type="checkbox"] {
+        margin-right: 5px;
+    }
+
+    form button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    form button:hover {
+        background-color: #0056b3;
+    }
+
+    /* Estilos para los enlaces */
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
